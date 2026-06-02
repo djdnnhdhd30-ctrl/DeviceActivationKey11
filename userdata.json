@@ -46,5 +46,11 @@
         "key": "BOX123",
         "expirydate": "03-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cc1e9942bd0802fe",
+        "key": "OCEAN",
+        "expirydate": "03-10-2027",
+        "Allowoffline": false
     }
 ]
