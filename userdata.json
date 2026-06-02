@@ -28,5 +28,17 @@
         "key": "raider_koni_nist",
         "expirydate": "03-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dd6df0a51ceefe11",
+        "key": "amir_cyber1",
+        "expirydate": "15-08-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "1aad214a593c8b67",
+        "key": "@REDFiRE1",
+        "expirydate": "03-06-2026",
+        "Allowoffline": false
     }
 ]
