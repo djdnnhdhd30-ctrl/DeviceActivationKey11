@@ -40,5 +40,11 @@
         "key": "@REDFiRE1",
         "expirydate": "03-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b3920c41703bb19e",
+        "key": "BOX123",
+        "expirydate": "03-07-2026",
+        "Allowoffline": false
     }
 ]
