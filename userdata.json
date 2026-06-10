@@ -64,5 +64,11 @@
         "key": "H",
         "expirydate": "03-10-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "adae66cf7cc98f2b",
+        "key": "reza123",
+        "expirydate": "03-10-2027",
+        "Allowoffline": false
     }
 ]
